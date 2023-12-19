@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-I have a strong foundation in computer science principles and a deep understanding of web development technologies, including HTML, CSS, JavaScript, React.js, and various back-end language such as Java and its frameworks. I am proficient in using development tools such as Git and agile methodologies, which allows me to work efficiently and effectively in a team environment.
+I have a strong foundation in computer science principles and a deep understanding of web development technologies, including HTML, CSS, JavaScript, Angular, and various back-end language such as Java and its frameworks. I am proficient in using development tools such as Git and agile methodologies, which allows me to work efficiently and effectively in a team environment.
 In short, my motivation as a full-stack developer is driven by my passion for technology, my desire to solve complex problems, and my commitment to delivering exceptional results.
 As a full-stack developer, I am driven by my passion for problem-solving and creating functional and intuitive technology solutions. I enjoy the challenge of working with different technologies and development frameworks, and I am constantly looking for ways to expand my knowledge and skills in this field.
 Furthermore, I am a proactive and detail-oriented individual who is committed to delivering high-quality work. I am always willing to learn and adapt to new technologies and methodologies, and I am excited about the opportunity to work on complex and meaningful projects that push the boundaries of what is possible with technology.
 
-I'm currently learning React.js
+I'm currently learning Angular
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmetdayi&icon=5&color=0)](https://visitcount.itsvg.in)
